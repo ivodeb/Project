@@ -9,7 +9,7 @@
 ## Solution
 	I want to make a video player in which you can add notes and bookmarks that don't disappear when you close the file or end the session.
 
-![1](project_proposal.png)
+![1](doc/project_proposal.png)
 	
 ## Main features
 	Minimum viable product:
