@@ -13,13 +13,20 @@ I want to make a video player in which you can add notes and bookmarks that don'
 	
 ## Main features
 Minimum viable product:
-	- Basic video player
-	- Bookmarks and notes
+
+- Basic video player
+	
+- Bookmarks and notes
+
 Additional features:
-	- Other video player features like faster playback, rewinding/skipping
-	- Online streaming
-	- Download from youtube/other sites
-	- ...
+
+- Other video player features like faster playback, rewinding/skipping
+	
+- Online streaming
+	
+- Download from youtube/other sites
+	
+- ...
 	
 ## Data sources
 Video/mp4 files, maybe other files like .avi
