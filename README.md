@@ -1,6 +1,6 @@
 # Project Proposal
-### Title:
-### Name: Ivo de Brouwer
+#### Title:
+#### Name: Ivo de Brouwer
 
 
 ## Problem Statement
