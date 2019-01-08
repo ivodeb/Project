@@ -7,8 +7,6 @@
 
 ## Class diagram
 	
-## List of APIs/frameworks
-
-## List of data sources
-
-## Database
+## List of APIs/frameworks and data sources
+[Youtube player API](https://developers.google.com/youtube/android/player/) to load videos.
+Possibly [Firebase](https://firebase.google.com/) to retrieve video data.
