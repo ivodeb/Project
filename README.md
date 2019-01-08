@@ -24,13 +24,14 @@ Additional features:
 	
 - Online streaming
 	
-- Download from youtube/other sites
-	
+- Watch videos together from different devices
+
 - ...
 	
 ## Data sources
 Video/mp4 files, maybe other files like .avi
-It's not particularly necessary to transform the data.
+
+Youtube videos through their API
 	
 	
 ## External components
