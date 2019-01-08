@@ -5,6 +5,11 @@
 
 ## Advanced sketches of UI
 
+SearchActivity.java / activity_search.xml     			    | other activities
+:------------------------------------------------------------------:|:-----------------------------------------:|
+<img src="doc/project_proposal2.png" alt="proposal" width="600"/>   | ![](doc/project_proposal.png)
+
+
 ## Class diagram
 	
 ## List of APIs/frameworks and data sources
