@@ -9,7 +9,7 @@ When you're watching/listening to a lecture, podcast or other video, you often f
 ## Solution
 I want to make a video player in which you can add notes and bookmarks that don't disappear when you close the file or end the session.
 
-![1](doc/project_proposal.png)
+![proposal](doc/project_proposal3.png)
 	
 ## Main features
 Minimum viable product:
