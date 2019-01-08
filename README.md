@@ -40,6 +40,8 @@ Not sure if any so far.
 ## Similar apps
 VLC Media Player is the most popular video player on Android with bookmarks, but those disappear on session end etc.
 PotPlayer works fine, but is only for Windows, not Android.
+
+For the 'watching videos together' part, Chromecast is an option if you have a smart TV installed, and [togethertube](https://togethertube.com/) is an option for in your internet browser.
 	
 ## Hardest parts to implement
 Implementing and saving the bookmarks through sessions will likely be tough. The additional features will also be hard to implement.
