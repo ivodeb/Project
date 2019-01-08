@@ -42,7 +42,4 @@ VLC Media Player is the most popular video player on Android with bookmarks, but
 PotPlayer works fine, but is only for Windows, not Android.
 	
 ## Hardest parts to implement
-Implementing and saving the bookmarks through sessions will likely be tough. Skipping/rewinding when pressing the bookmarks will also be hard to do.
-
-## Additional information
-It was hard to choose a single project idea this far in advance. This is one of the more concrete ideas I could come up with before the deadline, I hope it will do for now.
+Implementing and saving the bookmarks through sessions will likely be tough. The additional features will also be hard to implement.
